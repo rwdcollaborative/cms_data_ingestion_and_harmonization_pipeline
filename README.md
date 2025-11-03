@@ -8,4 +8,4 @@ This work was given a distinction under the **Best Community Contribution Honore
 * [OHDSI Global Symposium 2023 poster ](https://www.ohdsi.org/2023showcase-4/)
 
 * [CMS data Harmonization Overview](https://github.com/rwdcollaborative/cms_data_ingestion_and_harmonization_pipeline/wiki/CMS-Data-Ingestion-and-Harmonization-Overview)
-* 
+  
